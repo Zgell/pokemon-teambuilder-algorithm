@@ -1,4 +1,4 @@
-# Pokemon Teambuilder Algorithm V2 - Started on Jan. 6th, 2020
+# Pokemon Teambuilder Algorithm V3 - Started on Jan. 6th, 2020
 
 TYPE_LIST = ['Normal', 'Fighting', 'Flying', 
             'Poison', 'Ground', 'Rock',
